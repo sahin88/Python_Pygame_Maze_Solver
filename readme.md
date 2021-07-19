@@ -2,7 +2,10 @@
 
 
 ## Maze Solver App
-you can practice Depth-first search (DFS) and Breadth-First Search algorithms via this small app. Usage: To give a starting point, click on anywhere on the Maze, then press number "1".
+you can practice Depth-first search (DFS) and Breadth-First Search algorithms via this small app. 
+
+## Usage
+To give a starting point, click on anywhere on the Maze, then press number "1".
  To enter a target point, click upon anywhere on the maze,( except for starting point) and press number "2".
 Finally, to make the walls, please click anywhere on the maze(except for starting and target points), then press number "3".
  Lastly, click upon the "Find Path" section, then the program will get started and the shortest path will be marked with blue color.
